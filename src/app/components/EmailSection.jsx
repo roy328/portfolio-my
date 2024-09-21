@@ -34,7 +34,7 @@ const EmailSection = () => {
     const resData = await response.json();
 
     if (response.status === 200) {
-      console.log("Message sent.");
+      // console.log("Message sent.");
       setEmailSubmitted(true);
     }
   };
@@ -56,10 +56,10 @@ const EmailSection = () => {
           try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
+          <Link href="https://github.com/tiger-dev105">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="linkedin.com">
+          <Link href="https://www.linkedin.com/in/andrew-roy-8a7495329/">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>
