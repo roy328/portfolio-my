@@ -2,29 +2,17 @@
 
 This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
 
-## Installation
+# Contact info
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+modobar blocker: live:.cid.bc7ade0590ddd773
+                 gmail:dan.negrivoda31@gmail.com
 
-## Usage
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+kmc     gmail:  gomericroth@gmail.com
+        skype:  live:.cid.373ee41b3a7d9af7
+        tg:     tigerkmc331
 
-## Dependencies
+ogn     skype:  live:.cid.cf2076082a6fe1cb
 
-The following dependencies are required for this project:
-
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
-
+.       skype:  live:.cid.c6a42a5650e4acda
+lieno   skype:  live:.cid.ba2a96a3a9adf4d4
